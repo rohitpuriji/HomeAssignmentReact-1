@@ -1,0 +1,210 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /Users/rohitpuri/HomeAssignmentApp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /Users/rohitpuri/HomeAssignmentApp/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /Users/rohitpuri/HomeAssignmentApp/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /Users/rohitpuri/HomeAssignmentApp/node_modules/react-native-worklets/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Library/Java/JavaVirtualMachines/jdk-18.0.1.1.jdk/Contents/Home/bin/java \\\n  --class-path \\\n  /Users/rohitpuri/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  cmake \\\n  --platform \\\n  android \\\n  --abi \\\n  arm64-v8a \\\n  --os-version \\\n  24 \\\n  --stl \\\n  c++_shared \\\n  --ndk-version \\\n  27 \\\n  --output \\\n  /var/folders/bq/gwyzpytx6r537cyq8h03kp7w0000gq/T/agp-prefab-staging4703747615169396768/staged-cli-output \\\n  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/5d0a6fceadea979a29a63bd98787fde9/transformed/react-android-0.80.2-debug/prefab \\\n  /Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/refs/react-native-reanimated/3p2ql197 \\\n  /Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/refs/react-native-worklets/4v133i2e \\\n  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/3c0efba9cf138cb926c92ca55f9b23c1/transformed/hermes-android-0.80.2-debug/prefab \\\n  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/51dbd9ae21c085b2cb843db84b5d6696/transformed/fbjni-0.7.0/prefab\n",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/arm64-v8a\u0027 but regenerating project",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/rohitpuri/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/rohitpuri/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/Debug/650i344j/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/Debug/650i344j/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/prefab/arm64-v8a/prefab \\\n  -B/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build \\\n  -DPROJECT_ROOT_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/android \\\n  -DREACT_ANDROID_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\n",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/rohitpuri/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/rohitpuri/Library/Android/sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/rohitpuri/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/Debug/650i344j/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/Debug/650i344j/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/prefab/arm64-v8a/prefab \\\n  -B/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/android/app/build \\\n  -DPROJECT_ROOT_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/android \\\n  -DREACT_ANDROID_DIR\u003d/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\n",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/arm64-v8a/compile_commands.json.bin normally",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/rohitpuri/HomeAssignmentApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

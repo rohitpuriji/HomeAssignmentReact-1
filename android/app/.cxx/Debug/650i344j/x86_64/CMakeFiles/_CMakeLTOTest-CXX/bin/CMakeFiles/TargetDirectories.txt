@@ -1,0 +1,4 @@
+/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/rohitpuri/HomeAssignmentApp/android/app/.cxx/Debug/650i344j/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

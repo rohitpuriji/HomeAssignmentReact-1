@@ -1,0 +1,23 @@
+/Library/Java/JavaVirtualMachines/jdk-18.0.1.1.jdk/Contents/Home/bin/java \
+  --class-path \
+  /Users/rohitpuri/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  arm64-v8a \
+  --os-version \
+  24 \
+  --stl \
+  c++_shared \
+  --ndk-version \
+  27 \
+  --output \
+  /var/folders/bq/gwyzpytx6r537cyq8h03kp7w0000gq/T/agp-prefab-staging4703747615169396768/staged-cli-output \
+  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/5d0a6fceadea979a29a63bd98787fde9/transformed/react-android-0.80.2-debug/prefab \
+  /Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/refs/react-native-reanimated/3p2ql197 \
+  /Users/rohitpuri/HomeAssignmentApp/android/app/build/intermediates/cxx/refs/react-native-worklets/4v133i2e \
+  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/3c0efba9cf138cb926c92ca55f9b23c1/transformed/hermes-android-0.80.2-debug/prefab \
+  /Users/rohitpuri/.gradle/caches/8.14.1/transforms/51dbd9ae21c085b2cb843db84b5d6696/transformed/fbjni-0.7.0/prefab
